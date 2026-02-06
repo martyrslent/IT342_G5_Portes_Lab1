@@ -8,13 +8,13 @@
 ## TODO
 ### Backend
 * [x] Backend: Security Configuration & BCrypt - Commit `f1f0fb0`
-* [ ] Backend: User Registration API - Commit ``
-* [ ] Backend: Login API - Commit ``
-* [ ] Backend: Protected Profile API - Commit ``
+* [x] Backend: User Registration API - Commit `5e5727f`
+* [x] Backend: Login API - Commit `5e5727f`
+* [x] Backend: Protected Profile API - Commit `5e5727f`
 
 ### Web Application
-* [ ] React: Register & Login Pages - Commit ``
-* [ ] React: Dashboard - Commit ``
+* [x] React: Register & Login Pages - Commit `b161355`
+* [x] React: Dashboard - Commit `b161355`
 
 ### Documentation
 * [ ] Update FRS PDF with ERD and UML - Commit `` 
