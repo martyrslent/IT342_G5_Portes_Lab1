@@ -13,8 +13,8 @@
 * [x] Backend: Protected Profile API - Commit `5e5727f`
 
 ### Web Application
-* [x] React: Register & Login Pages - Commit `b161355`
-* [x] React: Dashboard - Commit `b161355`
+* [x] React: Register & Login Pages - Commit `32f3a47`
+* [x] React: Dashboard - Commit `32f3a47`
 
 ### Documentation
 * [ ] Update FRS PDF with ERD and UML - Commit `` 
